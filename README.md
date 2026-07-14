@@ -16,19 +16,12 @@
 ## 安装
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt && chmod +x getpic.sh
 ```
 
 ## 使用
 
 ```bash
-python getpic.sh
-```
-
-或直接执行（需赋予执行权限）：
-
-```bash
-chmod +x getpic.sh
 ./getpic.sh
 ```
 
