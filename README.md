@@ -16,6 +16,8 @@
 ## 安装
 
 ```bash
+git clone https://github.com/wocall/get1024pic.git
+cd get1024pic
 pip install -r requirements.txt && chmod +x getpic.sh
 ```
 
